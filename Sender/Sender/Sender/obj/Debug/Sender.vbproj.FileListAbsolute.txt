@@ -1,0 +1,73 @@
+F:\Sender\Sender\Sender\bin\Debug\Sender.exe.config
+F:\Sender\Sender\Sender\bin\Debug\Sender.exe
+F:\Sender\Sender\Sender\bin\Debug\Sender.pdb
+F:\Sender\Sender\Sender\bin\Debug\Sender.xml
+F:\Sender\Sender\Sender\bin\Debug\NAudio.dll
+F:\Sender\Sender\Sender\bin\Debug\NAudio.xml
+F:\Sender\Sender\Sender\obj\Debug\Sender.Form1.resources
+F:\Sender\Sender\Sender\obj\Debug\Sender.Resources.resources
+F:\Sender\Sender\Sender\obj\Debug\Sender.vbproj.GenerateResource.cache
+F:\Sender\Sender\Sender\obj\Debug\Sender.vbproj.CoreCompileInputs.cache
+F:\Sender\Sender\Sender\obj\Debug\Sender.vbproj.CopyComplete
+F:\Sender\Sender\Sender\obj\Debug\Sender.exe
+F:\Sender\Sender\Sender\obj\Debug\Sender.xml
+F:\Sender\Sender\Sender\obj\Debug\Sender.pdb
+F:\Work\Mexico_Audio\Sender\Sender\Sender\bin\Debug\Sender.exe.config
+F:\Work\Mexico_Audio\Sender\Sender\Sender\bin\Debug\Sender.exe
+F:\Work\Mexico_Audio\Sender\Sender\Sender\bin\Debug\Sender.pdb
+F:\Work\Mexico_Audio\Sender\Sender\Sender\bin\Debug\Sender.xml
+F:\Work\Mexico_Audio\Sender\Sender\Sender\bin\Debug\NAudio.dll
+F:\Work\Mexico_Audio\Sender\Sender\Sender\bin\Debug\NAudio.xml
+F:\Work\Mexico_Audio\Sender\Sender\Sender\obj\Debug\Sender.Form1.resources
+F:\Work\Mexico_Audio\Sender\Sender\Sender\obj\Debug\Sender.Resources.resources
+F:\Work\Mexico_Audio\Sender\Sender\Sender\obj\Debug\Sender.vbproj.GenerateResource.cache
+F:\Work\Mexico_Audio\Sender\Sender\Sender\obj\Debug\Sender.vbproj.CoreCompileInputs.cache
+F:\Work\Mexico_Audio\Sender\Sender\Sender\obj\Debug\Sender.vbproj.CopyComplete
+F:\Work\Mexico_Audio\Sender\Sender\Sender\obj\Debug\Sender.exe
+F:\Work\Mexico_Audio\Sender\Sender\Sender\obj\Debug\Sender.xml
+F:\Work\Mexico_Audio\Sender\Sender\Sender\obj\Debug\Sender.pdb
+E:\Audio_Capture\Sender\Sender\Sender\bin\Debug\Sender.exe.config
+E:\Audio_Capture\Sender\Sender\Sender\bin\Debug\Sender.exe
+E:\Audio_Capture\Sender\Sender\Sender\bin\Debug\Sender.pdb
+E:\Audio_Capture\Sender\Sender\Sender\bin\Debug\Sender.xml
+E:\Audio_Capture\Sender\Sender\Sender\bin\Debug\NAudio.dll
+E:\Audio_Capture\Sender\Sender\Sender\bin\Debug\NAudio.xml
+E:\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.Form1.resources
+E:\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.Resources.resources
+E:\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.vbproj.GenerateResource.cache
+E:\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.vbproj.CoreCompileInputs.cache
+E:\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.vbproj.CopyComplete
+E:\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.exe
+E:\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.xml
+E:\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.pdb
+E:\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.vbprojAssemblyReference.cache
+F:\Work\Audio_Capture\Sender\Sender\Sender\bin\Debug\Sender.exe.config
+F:\Work\Audio_Capture\Sender\Sender\Sender\bin\Debug\Sender.exe
+F:\Work\Audio_Capture\Sender\Sender\Sender\bin\Debug\Sender.pdb
+F:\Work\Audio_Capture\Sender\Sender\Sender\bin\Debug\Sender.xml
+F:\Work\Audio_Capture\Sender\Sender\Sender\bin\Debug\NAudio.dll
+F:\Work\Audio_Capture\Sender\Sender\Sender\bin\Debug\NAudio.xml
+F:\Work\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.Form1.resources
+F:\Work\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.Resources.resources
+F:\Work\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.vbproj.GenerateResource.cache
+F:\Work\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.vbproj.CoreCompileInputs.cache
+F:\Work\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.vbproj.CopyComplete
+F:\Work\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.exe
+F:\Work\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.xml
+F:\Work\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.pdb
+E:\Data\Projects\Gonzalo A.(Mexico)\Audio_Capture\Sender\Sender\Sender\bin\Debug\Sender.exe.config
+E:\Data\Projects\Gonzalo A.(Mexico)\Audio_Capture\Sender\Sender\Sender\bin\Debug\Sender.exe
+E:\Data\Projects\Gonzalo A.(Mexico)\Audio_Capture\Sender\Sender\Sender\bin\Debug\Sender.pdb
+E:\Data\Projects\Gonzalo A.(Mexico)\Audio_Capture\Sender\Sender\Sender\bin\Debug\Sender.xml
+E:\Data\Projects\Gonzalo A.(Mexico)\Audio_Capture\Sender\Sender\Sender\bin\Debug\NAudio.dll
+E:\Data\Projects\Gonzalo A.(Mexico)\Audio_Capture\Sender\Sender\Sender\bin\Debug\NAudio.xml
+E:\Data\Projects\Gonzalo A.(Mexico)\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.vbprojAssemblyReference.cache
+E:\Data\Projects\Gonzalo A.(Mexico)\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.Form1.resources
+E:\Data\Projects\Gonzalo A.(Mexico)\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.Resources.resources
+E:\Data\Projects\Gonzalo A.(Mexico)\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.vbproj.GenerateResource.cache
+E:\Data\Projects\Gonzalo A.(Mexico)\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.vbproj.CoreCompileInputs.cache
+E:\Data\Projects\Gonzalo A.(Mexico)\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.vbproj.CopyComplete
+E:\Data\Projects\Gonzalo A.(Mexico)\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.exe
+E:\Data\Projects\Gonzalo A.(Mexico)\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.xml
+E:\Data\Projects\Gonzalo A.(Mexico)\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.pdb
+F:\Work\Audio_Capture\Sender\Sender\Sender\obj\Debug\Sender.vbprojAssemblyReference.cache
